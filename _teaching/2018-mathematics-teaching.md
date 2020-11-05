@@ -4,8 +4,8 @@ collection: teaching
 type: ""
 permalink: /teaching/2018-mathematics-teaching
 venue: "University Paris-Est Marne la Vallée"
-date: 2018-2019
+date: 2018
 location: "Paris, France"
 ---
 
-Intended for third year physics students. Topics: basics of mesure theory and Fourier Transforms.
+Intended for third year physics students. Topics: basics of mesure theory and Fourier Transforms. 2018-2019.

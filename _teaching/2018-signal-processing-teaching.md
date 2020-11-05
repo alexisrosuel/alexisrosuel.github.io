@@ -4,8 +4,8 @@ collection: teaching
 type: ""
 permalink: /teaching/2018-signal-processing-teaching
 venue: "University Paris-Est Marne la Vallée"
-date: 2018-2019
+date: 2018
 location: "Paris, France"
 ---
 
-Intended for third year physics students.
+Intended for third year physics students. 2018-2019.
