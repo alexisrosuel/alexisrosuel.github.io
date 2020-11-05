@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alexis Rosuel"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alexis Rosuel"
 description              : &description "personal description"
 url                      : https://alexisrosuel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
