@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2019-signal-processing-teaching-1
 venue: "University Paris-Est Marne la Vallée"
-date: 2019
+date: 2019-09-01
 location: "Paris, France"
 ---
 
