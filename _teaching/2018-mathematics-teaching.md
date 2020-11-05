@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2018-mathematics-teaching
 venue: "University Paris-Est Marne la Vallée"
-date: 2018
+date: 2018-09-01
 location: "Paris, France"
 ---
 
