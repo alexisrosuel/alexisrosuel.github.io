@@ -19,4 +19,4 @@ My research interest lie in the application of random matrix theory to statistic
 
 Contact
 ======
-rosuelalexis1 'at' gmail.com
+rosuelalexis1@gmail.com
