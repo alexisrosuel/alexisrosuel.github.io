@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alexis Rosuel"
 title_separator          : "-"
-name                     : &name "Alexis Rosuel"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://alexisrosuel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Alexis Rosuel"
   avatar           : "profile.png"
-  bio              : "PhD student, large dimensional signal processing"
+  bio              : "PhD student, Mathematical statistics department, LIGM"
   location         : "Paris"
   employer         : "Université Paris Est Marnes la Vallée"
-  googlescholar    : "https://scholar.google.com/citations?user=xNIO3P4AAAAJ&hl=fr&oi=ao"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "rosuelalexis1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alexis-rosuel/"
-  orcid            :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
